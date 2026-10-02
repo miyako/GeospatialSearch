@@ -19,3 +19,23 @@ Function get name() : Text
 			return This:C1470.nameEN
 			
 	End case 
+
+Function orderBy name($event : Object) : Text
+	
+	var $lang : Text
+	$lang:=Get database localization:C1009(Current localization:K5:22)
+	
+	Case of 
+		: ($lang="ja")
+			
+			return "nameJA "+$event.operator
+			
+		: ($lang="fr")
+			
+			return "nameFR "+$event.operator
+			
+		Else 
+			
+			return "nameEN "+$event.operator
+			
+	End case 
