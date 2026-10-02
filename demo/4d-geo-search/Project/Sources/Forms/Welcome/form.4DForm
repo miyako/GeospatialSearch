@@ -1,0 +1,465 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"events": [
+		"onLoad"
+	],
+	"windowTitle": "Touristic Site Finder",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"bgPage": {
+					"type": "rectangle",
+					"top": 0,
+					"left": 0,
+					"width": 900,
+					"height": 580,
+					"stroke": "transparent",
+					"fill": "#F0F0F0"
+				},
+				"rHero": {
+					"type": "rectangle",
+					"top": 0,
+					"left": 0,
+					"width": 900,
+					"height": 330,
+					"stroke": "transparent",
+					"fill": "#FFFFFF"
+				},
+				"rFam1Card3": {
+					"type": "rectangle",
+					"top": 267,
+					"left": 378,
+					"width": 144,
+					"height": 33,
+					"stroke": "transparent",
+					"fill": "#F0F0F0"
+				},
+				"rFam1Card1": {
+					"type": "rectangle",
+					"top": 267,
+					"left": 56,
+					"width": 144,
+					"height": 33,
+					"stroke": "transparent",
+					"fill": "#F0F0F0"
+				},
+				"rFam1Card2": {
+					"type": "rectangle",
+					"top": 267,
+					"left": 217,
+					"width": 144,
+					"height": 33,
+					"stroke": "transparent",
+					"fill": "#F0F0F0"
+				},
+				"nHeroRule": {
+					"type": "line",
+					"top": 330,
+					"left": 0,
+					"width": 900,
+					"height": 0,
+					"startPoint": "topLeft",
+					"stroke": "#E0E0E0"
+				},
+				"tEyebrow": {
+					"type": "text",
+					"text": "MOROCCO · HERITAGE SITES",
+					"top": 32,
+					"left": 56,
+					"width": 420,
+					"height": 14,
+					"verticalAlign": "middle",
+					"letterSpacing": 0.14,
+					"fontWeight": "bold",
+					"stroke": "#1e90ff",
+					"fontSize": 14
+				},
+				"tTitle": {
+					"type": "text",
+					"text": "Touristic Site Finder",
+					"top": 52,
+					"left": 56,
+					"width": 540,
+					"height": 44,
+					"verticalAlign": "middle",
+					"fontSize": 36,
+					"stroke": "#696969",
+					"fontWeight": "normal"
+				},
+				"rTitleRule": {
+					"type": "rectangle",
+					"top": 108,
+					"left": 56,
+					"width": 56,
+					"height": 3,
+					"stroke": "transparent",
+					"fill": "#1e90ff"
+				},
+				"tSubtitle": {
+					"type": "text",
+					"text": "This 4D application allows you to perform geographic search on a set of touristic sites in Morocco, retrieved from Wikidata (https://www.wikidata.org).  You simply select a city and a maximum search distance. Using a formula that measures the distance between two geographic points, an ORDA query then retrieves every touristic site located within that distance, ranked from nearest to farthest.  The selected city and site are displayed on an interactive map using a 4D Web Area (powered by Leaflet and OpenStreetMap).",
+					"top": 127,
+					"left": 56,
+					"width": 500,
+					"height": 105,
+					"wordWrap": true,
+					"stroke": "#696969",
+					"fontSize": 12
+				},
+				"rChip1": {
+					"type": "rectangle",
+					"top": 226,
+					"left": 56,
+					"width": 150,
+					"height": 34,
+					"stroke": "transparent",
+					"class": "start_chip"
+				},
+				"outChip1": {
+					"type": "input",
+					"left": 56,
+					"top": 275,
+					"width": 144,
+					"height": 17,
+					"enterable": false,
+					"focusable": false,
+					"contextMenu": "none",
+					"borderStyle": "none",
+					"textAlign": "center",
+					"verticalAlign": "middle",
+					"dataSourceTypeHint": "text",
+					"dataSource": "String:C10(siteCount)+\" touristic sites\"",
+					"stroke": "#696969",
+					"fontWeight": "bold",
+					"fill": "transparent"
+				},
+				"rChip2": {
+					"type": "rectangle",
+					"top": 226,
+					"left": 218,
+					"width": 150,
+					"height": 34,
+					"stroke": "transparent",
+					"class": "start_chip"
+				},
+				"outChip2": {
+					"type": "input",
+					"left": 217,
+					"top": 275,
+					"width": 144,
+					"height": 17,
+					"enterable": false,
+					"focusable": false,
+					"contextMenu": "none",
+					"borderStyle": "none",
+					"textAlign": "center",
+					"verticalAlign": "middle",
+					"dataSourceTypeHint": "text",
+					"dataSource": "String:C10(cityCount)+\" departure cities\"",
+					"fill": "transparent",
+					"stroke": "#696969",
+					"fontWeight": "bold"
+				},
+				"rChip3": {
+					"type": "rectangle",
+					"top": 226,
+					"left": 380,
+					"width": 150,
+					"height": 34,
+					"stroke": "transparent",
+					"class": "start_chip"
+				},
+				"tChip3": {
+					"type": "text",
+					"text": "up to 500 km",
+					"top": 275,
+					"left": 378,
+					"width": 144,
+					"height": 17,
+					"textAlign": "center",
+					"verticalAlign": "middle",
+					"fill": "transparent",
+					"fontWeight": "bold",
+					"stroke": "#696969"
+				},
+				"rPreview": {
+					"type": "rectangle",
+					"top": 63,
+					"left": 616,
+					"width": 224,
+					"height": 188,
+					"stroke": "transparent",
+					"fill": "#F8FCFF"
+				},
+				"oRing": {
+					"type": "oval",
+					"top": 83,
+					"left": 663,
+					"width": 132,
+					"height": 132,
+					"fill": "transparent",
+					"stroke": "#1e90ff"
+				},
+				"oSite1": {
+					"type": "oval",
+					"top": 119,
+					"left": 692,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#FF8040"
+				},
+				"oSite2": {
+					"type": "oval",
+					"top": 125,
+					"left": 756,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#FF8040"
+				},
+				"oSite3": {
+					"type": "oval",
+					"top": 181,
+					"left": 704,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#FF8040"
+				},
+				"oSite4": {
+					"type": "oval",
+					"top": 173,
+					"left": 762,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#FF8040"
+				},
+				"oSite5": {
+					"type": "oval",
+					"top": 99,
+					"left": 734,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#FF8040"
+				},
+				"oSiteOut": {
+					"type": "oval",
+					"top": 197,
+					"left": 808,
+					"width": 8,
+					"height": 8,
+					"stroke": "transparent",
+					"fill": "#c0c0c0"
+				},
+				"oOrigin": {
+					"type": "oval",
+					"top": 144,
+					"left": 723,
+					"width": 10,
+					"height": 10,
+					"stroke": "transparent",
+					"fill": "#1e90ff"
+				},
+				"tPreviewCaption": {
+					"type": "text",
+					"text": "one departure city, every site in range",
+					"top": 223,
+					"left": 616,
+					"width": 224,
+					"height": 12,
+					"textAlign": "center",
+					"verticalAlign": "middle",
+					"fontSize": 10,
+					"fontWeight": "bold",
+					"stroke": "#808080"
+				},
+				"tSection": {
+					"type": "text",
+					"text": "IN THE DATASET",
+					"top": 240,
+					"left": 56,
+					"width": 400,
+					"height": 16,
+					"verticalAlign": "middle",
+					"letterSpacing": 0.12,
+					"fontWeight": "bold",
+					"stroke": "#808080"
+				},
+				"rFam1Card": {
+					"type": "rectangle",
+					"top": 355,
+					"left": 56,
+					"width": 144,
+					"height": 108,
+					"stroke": "transparent"
+				},
+				"rFam2Card": {
+					"type": "rectangle",
+					"top": 355,
+					"left": 217,
+					"width": 144,
+					"height": 108,
+					"stroke": "transparent"
+				},
+				"rFam3Card": {
+					"type": "rectangle",
+					"top": 355,
+					"left": 378,
+					"width": 144,
+					"height": 108,
+					"stroke": "transparent"
+				},
+				"nFooterRule": {
+					"type": "line",
+					"top": 484,
+					"left": 0,
+					"width": 900,
+					"height": 0,
+					"startPoint": "topLeft",
+					"stroke": "#E0E0E0"
+				},
+				"bExplore": {
+					"type": "button",
+					"text": "Explore Touristic Sites →",
+					"top": 502,
+					"left": 56,
+					"width": 240,
+					"height": 40,
+					"action": "Accept",
+					"shortcutKey": "[Return]",
+					"focusable": false,
+					"defaultButton": true,
+					"fill": "#1F6FEB",
+					"stroke": "#1e90ff",
+					"fontSize": 14,
+					"fontWeight": "bold",
+					"borderRadius": 8,
+					"events": [
+						"onLoad",
+						"onClick"
+					],
+					"method": "ObjectMethods/bExplore.4dm"
+				},
+				"tAttribution": {
+					"type": "text",
+					"text": "Sites from Wikidata · Map tiles © OpenStreetMap contributors",
+					"top": 516,
+					"left": 485,
+					"width": 382,
+					"height": 12,
+					"verticalAlign": "middle",
+					"fontSize": 10,
+					"textAlign": "right",
+					"fontWeight": "bold",
+					"stroke": "#808080"
+				},
+				"labelVersion": {
+					"type": "text",
+					"text": "VERSION",
+					"top": 373,
+					"left": 72,
+					"width": 100,
+					"height": 11,
+					"fontSize": 9,
+					"fontWeight": "bold",
+					"stroke": "#94a3b8",
+					"letterSpacing": 0.1
+				},
+				"valVersion": {
+					"type": "text",
+					"text": "4D 21R2+",
+					"top": 399,
+					"left": 72,
+					"width": 100,
+					"height": 22,
+					"fontSize": 18,
+					"fontWeight": "bold",
+					"stroke": "#0f172a"
+				},
+				"labelDocs": {
+					"type": "text",
+					"text": "DOCS & BLOG",
+					"top": 373,
+					"left": 396,
+					"width": 87,
+					"height": 12,
+					"fontSize": 9,
+					"fontWeight": "bold",
+					"stroke": "#94A3B8",
+					"letterSpacing": 0.1
+				},
+				"txtBlog": {
+					"type": "input",
+					"top": 404,
+					"left": 396,
+					"width": 139,
+					"height": 14,
+					"dataSource": "\"https://blog.4d.com/\"",
+					"stroke": "#0ea5e9",
+					"textDecoration": "underline",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"fontSize": 11,
+					"dragging": "none",
+					"dropping": "custom",
+					"method": "ObjectMethods/txtBlog.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"valStack2": {
+					"type": "text",
+					"text": "ORDA\r4D.Vector\r4D Web Area",
+					"top": 391,
+					"left": 237,
+					"width": 111,
+					"height": 57,
+					"fontWeight": "bold",
+					"stroke": "#334155",
+					"fontSize": 14
+				},
+				"labelStack": {
+					"type": "text",
+					"text": "STACK",
+					"top": 373,
+					"left": 237,
+					"width": 100,
+					"height": 11,
+					"fontSize": 9,
+					"fontWeight": "bold",
+					"stroke": "#94a3b8",
+					"letterSpacing": 0.1
+				}
+			}
+		}
+	],
+	"geometryStamp": 418,
+	"method": "method.4dm",
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}

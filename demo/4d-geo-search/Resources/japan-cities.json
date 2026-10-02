@@ -1,0 +1,362 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q1490",
+    "nameFr": "Tokyo",
+    "nameEn": "Tokyo",
+    "nameAr": "طوكيو",
+    "nameJa": "東京都",
+    "population": "14264798",
+    "coord": [
+      35.68944444444445,
+      139.69166666666666
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38283",
+    "nameFr": "Yokohama",
+    "nameEn": "Yokohama",
+    "nameAr": "يوكوهاما",
+    "nameJa": "横浜市",
+    "population": "3757630",
+    "coord": [
+      35.45033333333333,
+      139.63422222222223
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q35765",
+    "nameFr": "Osaka",
+    "nameEn": "Osaka",
+    "nameAr": "أوساكا",
+    "nameJa": "大阪市",
+    "population": "2751862",
+    "coord": [
+      34.69375,
+      135.5021111111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11751",
+    "nameFr": "Nagoya",
+    "nameEn": "Nagoya",
+    "nameAr": "ناغويا",
+    "nameJa": "名古屋市",
+    "population": "2326844",
+    "coord": [
+      35.18138888888889,
+      136.9063888888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37951",
+    "nameFr": "Sapporo",
+    "nameEn": "Sapporo",
+    "nameAr": "سابورو",
+    "nameJa": "札幌市",
+    "population": "1959313",
+    "coord": [
+      43.06194444444444,
+      141.35444444444445
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26600",
+    "nameFr": "Fukuoka",
+    "nameEn": "Fukuoka",
+    "nameAr": "فوكوكا",
+    "nameJa": "福岡市",
+    "population": "1603043",
+    "coord": [
+      33.59013888888889,
+      130.40172222222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q164234",
+    "nameFr": "Kawasaki",
+    "nameEn": "Kawasaki",
+    "nameAr": "كاواساكي، كاناغاوا",
+    "nameJa": "川崎市",
+    "population": "1539522",
+    "coord": [
+      35.53088888888889,
+      139.703
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q48320",
+    "nameFr": "Kobe",
+    "nameEn": "Kobe",
+    "nameAr": "كوبه",
+    "nameJa": "神戸市",
+    "population": "1521707",
+    "coord": [
+      34.69016666666667,
+      135.19544444444443
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34600",
+    "nameFr": "Kyoto",
+    "nameEn": "Kyoto",
+    "nameAr": "كيوتو",
+    "nameJa": "京都市",
+    "population": "1463723",
+    "coord": [
+      35.01161111111111,
+      135.76811111111112
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134635",
+    "nameFr": "Saitama",
+    "nameEn": "Saitama",
+    "nameAr": "سايتاما",
+    "nameJa": "さいたま市",
+    "population": "1325843",
+    "coord": [
+      35.86138888888889,
+      139.64555555555555
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34664",
+    "nameFr": "Hiroshima",
+    "nameEn": "Hiroshima",
+    "nameAr": "هيروشيما",
+    "nameJa": "広島市",
+    "population": "1198021",
+    "coord": [
+      34.39138888888889,
+      132.45194444444445
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170616",
+    "nameFr": "Chiba",
+    "nameEn": "Chiba",
+    "nameAr": "تشيبا",
+    "nameJa": "千葉市",
+    "population": "975014",
+    "coord": [
+      35.607277777777774,
+      140.1063611111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188806",
+    "nameFr": "Kitakyūshū",
+    "nameEn": "Kitakyūshū",
+    "nameAr": "كيتاكيوشو",
+    "nameJa": "北九州市",
+    "population": "935084",
+    "coord": [
+      33.88341666666667,
+      130.87519444444445
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193428",
+    "nameFr": "Sakai",
+    "nameEn": "Sakai",
+    "nameAr": "ساكاي",
+    "nameJa": "堺市",
+    "population": "824408",
+    "coord": [
+      34.57333333333333,
+      135.483
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q179691",
+    "nameFr": "Niigata",
+    "nameEn": "Niigata",
+    "nameAr": "نيغاتا",
+    "nameJa": "新潟市",
+    "population": "790646",
+    "coord": [
+      37.91619444444444,
+      139.0363888888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185125",
+    "nameFr": "Hamamatsu",
+    "nameEn": "Hamamatsu",
+    "nameAr": "هاماماتسو",
+    "nameJa": "浜松市",
+    "population": "788211",
+    "coord": [
+      34.71088888888889,
+      137.72619444444445
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199889",
+    "nameFr": "Kumamoto",
+    "nameEn": "Kumamoto",
+    "nameAr": "كوماموتو",
+    "nameJa": "熊本市",
+    "population": "738385",
+    "coord": [
+      32.803,
+      130.7078611111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q209779",
+    "nameFr": "Sagamihara",
+    "nameEn": "Sagamihara",
+    "nameAr": "ساغاميهارا، كاناغاوا",
+    "nameJa": "相模原市",
+    "population": "725696",
+    "coord": [
+      35.571416666666664,
+      139.3731388888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200078",
+    "nameFr": "Okayama",
+    "nameEn": "Okayama",
+    "nameAr": "أوكاياما، أوكاياما",
+    "nameJa": "岡山市",
+    "population": "720043",
+    "coord": [
+      34.65511111111111,
+      133.91958333333332
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174691",
+    "nameFr": "Shizuoka",
+    "nameEn": "Shizuoka",
+    "nameAr": "شيزوكا",
+    "nameJa": "静岡市",
+    "population": "685589",
+    "coord": [
+      34.975555555556,
+      138.3825
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q271417",
+    "nameFr": "Funabashi",
+    "nameEn": "Funabashi",
+    "nameAr": "فوناباشي",
+    "nameJa": "船橋市",
+    "population": "641499",
+    "coord": [
+      35.69455555555555,
+      139.98255555555556
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q387136",
+    "nameFr": "Kawaguchi",
+    "nameEn": "Kawaguchi",
+    "nameAr": "كاواغوتشي",
+    "nameJa": "川口市",
+    "population": "593900",
+    "coord": [
+      35.80758333333333,
+      139.7241388888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15674",
+    "nameFr": "Kagoshima",
+    "nameEn": "Kagoshima",
+    "nameAr": "كاغوشيما، كاغوشيما",
+    "nameJa": "鹿児島市",
+    "population": "593754",
+    "coord": [
+      31.596805555555555,
+      130.5571388888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208863",
+    "nameFr": "Hachiōji",
+    "nameEn": "Hachiōji-shi",
+    "nameAr": "هاتشيؤوجي",
+    "nameJa": "八王子市",
+    "population": "575721",
+    "coord": [
+      35.666444444444444,
+      139.316
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q209801",
+    "nameFr": "Himeji",
+    "nameEn": "Himeji",
+    "nameAr": "هيميجي، هيوغو",
+    "nameJa": "姫路市",
+    "population": "527596",
+    "coord": [
+      34.81516666666667,
+      134.6853888888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200589",
+    "nameFr": "Utsunomiya",
+    "nameEn": "Utsunomiya",
+    "nameAr": "أوتسونوميا، توتشيغي",
+    "nameJa": "宇都宮市",
+    "population": "518197",
+    "coord": [
+      36.55511111111111,
+      139.88255555555557
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200022",
+    "nameFr": "Matsuyama",
+    "nameEn": "Matsuyama",
+    "nameAr": "ماتسوياما",
+    "nameJa": "松山市",
+    "population": "506743",
+    "coord": [
+      33.839166666666664,
+      132.7656388888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q320943",
+    "nameFr": "Matsudo",
+    "nameEn": "Matsudo",
+    "nameAr": "ماتسودو",
+    "nameJa": "松戸市",
+    "population": "497514",
+    "coord": [
+      35.787638888888885,
+      139.90316666666666
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q209785",
+    "nameFr": "Ichikawa",
+    "nameEn": "Ichikawa",
+    "nameAr": "إيشيكاوا",
+    "nameJa": "市川市",
+    "population": "495768",
+    "coord": [
+      35.721916666666665,
+      139.93105555555556
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q243863",
+    "nameFr": "Higashiōsaka",
+    "nameEn": "Higashiōsaka-shi",
+    "nameAr": "هيغاشي-أوساكا",
+    "nameJa": "東大阪市",
+    "population": "490819",
+    "coord": [
+      34.67936111111111,
+      135.60088888888887
+    ]
+  }
+]
