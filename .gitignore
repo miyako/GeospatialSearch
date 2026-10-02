@@ -4,3 +4,4 @@ build/
 __pycache__/
 demo/*/Data/
 demo/*/userPreferences.*/
+demo/*/Project/DerivedData/
