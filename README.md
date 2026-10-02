@@ -55,8 +55,9 @@ Optional per-label tweaks in `figures/layout/fig-NN.json` (`items[N-1]`):
 `"scale": 1.2`, `"size": 28` (px), `"weight": "light"|"regular"|"bold"`,
 `"align": "left"|"center"`, `"dx"`/`"dy"` (px offset), `"box": [x, y, w, h]`, `"bg"`/`"fg": [r, g, b, a]`.
 
-`fig-11` is a screenshot of the application UI; it is used unchanged (`"localize": false`).
-Replace `figures/fig-11.png` with a Japanese screenshot if one is available.
+`fig-11` is a screenshot of the application UI. Instead of overlaying text, the layout's
+`"replace": "fig-11-ja.png"` swaps in the Japanese screenshot `figures/fig-11-ja.png`
+(the original `fig-11.png` is kept for reference). Any figure can be replaced this way.
 
 ### Demo data (`data/`)
 

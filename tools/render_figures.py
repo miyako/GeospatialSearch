@@ -11,6 +11,7 @@ Rules for a line in fig-NN.ja.txt:
                                      (use this to merge two English lines
                                      into one Japanese line)
   * anything else                 -> English erased, Japanese drawn in place
+Figures with "replace": "<file>" use that file from figures/ instead (e.g. a Japanese screenshot).
 Figures with "localize": false (or without a .ja.txt) are copied unchanged.
 """
 import json
@@ -186,6 +187,10 @@ def main():
         name = lay_path.stem
         layout = json.loads(lay_path.read_text())
         ja_path = FIG / f"{name}.ja.txt"
+        if layout.get("replace"):
+            shutil.copy(FIG / layout["replace"], OUT / f"{name}.png")
+            print(f"{name}: replaced with {layout['replace']}")
+            continue
         if not layout.get("localize", True) or not ja_path.exists():
             shutil.copy(FIG / layout["source"], OUT / f"{name}.png")
             print(f"{name}: copied unchanged")
