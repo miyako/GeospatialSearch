@@ -23,8 +23,10 @@ Case of
 		
 		// Load known cities from table `ds.City`
 		var $knownCities : cs:C1710.CitySelection
-		$knownCities:=ds:C1482.City.all().orderBy("nameEN")
-		cityChoices.values:=$knownCities.extract("nameEN")
+		//$knownCities:=ds.City.all().orderBy("nameEN")
+		$knownCities:=ds:C1482.City.all().orderBy("name")
+		//cityChoices.values:=$knownCities.extract("nameEN")
+		cityChoices.values:=$knownCities.extract("name")
 		cityChoices.cityIDs:=$knownCities.extract("ID")
 		cityChoices.index:=0
 		

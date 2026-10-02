@@ -147,7 +147,7 @@
 								"name": "Pied1"
 							},
 							"width": 220,
-							"dataSource": "This:C1470.site.nameEN",
+							"dataSource": "This:C1470.site.name",
 							"enterable": false
 						},
 						{
