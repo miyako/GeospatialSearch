@@ -1,0 +1,1202 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q39231",
+    "nameFr": "mont Fuji",
+    "nameEn": "Mount Fuji",
+    "nameAr": "جبل فوجي",
+    "nameJa": "富士山",
+    "nbLiens": "146",
+    "coord": [
+      35.36055555555556,
+      138.7275
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q221716",
+    "nameFr": "Kiyomizu-dera",
+    "nameEn": "Kiyomizu-dera",
+    "nameAr": "معبد كيوميزو",
+    "nameJa": "清水寺",
+    "nbLiens": "77",
+    "coord": [
+      34.994830555556,
+      135.78500277778
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188754",
+    "nameFr": "château de Himeji",
+    "nameEn": "Himeji Castle",
+    "nameAr": "هيميجي-جو",
+    "nameJa": "姫路城",
+    "nbLiens": "75",
+    "coord": [
+      34.839444444444446,
+      134.69361111111112
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57965",
+    "nameFr": "Tokyo Skytree",
+    "nameEn": "Tokyo Skytree",
+    "nameAr": "طوكيو سكاي تري",
+    "nameJa": "東京スカイツリー",
+    "nbLiens": "72",
+    "coord": [
+      35.710055555555556,
+      139.8107222222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191763",
+    "nameFr": "sanctuaire d'Itsukushima",
+    "nameEn": "Itsukushima Shrine",
+    "nameAr": "ضريح إيتسوكوشيما",
+    "nameJa": "厳島神社",
+    "nbLiens": "69",
+    "coord": [
+      34.29577,
+      132.320105
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183536",
+    "nameFr": "tour de Tokyo",
+    "nameEn": "Tokyo Tower",
+    "nameAr": "برج طوكيو",
+    "nameJa": "東京タワー",
+    "nbLiens": "69",
+    "coord": [
+      35.658611111111114,
+      139.74555555555557
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16318627",
+    "nameFr": "Abeno Harukas",
+    "nameEn": "Abeno Harukas",
+    "nameAr": "هاروكا أبينو",
+    "nameJa": "あべのハルカス",
+    "nbLiens": "67",
+    "coord": [
+      34.645947222222,
+      135.51426666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q270983",
+    "nameFr": "Kinkaku-ji",
+    "nameEn": "Kinkaku-ji Temple",
+    "nameAr": "كينكاكو-جي",
+    "nameJa": "鹿苑寺",
+    "nbLiens": "57",
+    "coord": [
+      35.0395,
+      135.7285
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q261932",
+    "nameFr": "temple Hōryū",
+    "nameEn": "Hōryū-ji Temple",
+    "nameAr": "هوريو-جي",
+    "nameJa": "法隆寺",
+    "nbLiens": "53",
+    "coord": [
+      34.614444444444445,
+      135.73416666666665
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q321242",
+    "nameFr": "château d'Osaka",
+    "nameEn": "Osaka Castle",
+    "nameAr": "قلعة أوساكا",
+    "nameJa": "大坂城",
+    "nbLiens": "51",
+    "coord": [
+      34.687222222222,
+      135.52583333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q242803",
+    "nameFr": "sanctuaire Yasukuni",
+    "nameEn": "Yasukuni Shrine",
+    "nameAr": "مقدس ياسوكوني",
+    "nameJa": "靖国神社",
+    "nbLiens": "48",
+    "coord": [
+      35.693958333333335,
+      139.74269166666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q460367",
+    "nameFr": "temple Tōdai",
+    "nameEn": "Tōdai-ji Temple",
+    "nameAr": "توداي-جي",
+    "nameJa": "東大寺",
+    "nbLiens": "44",
+    "coord": [
+      34.689166666667,
+      135.83972222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q687168",
+    "nameFr": "sanctuaire d'Ise",
+    "nameEn": "Ise Jingū",
+    "nameAr": "مقدس إيسه",
+    "nameJa": "伊勢神宮",
+    "nbLiens": "44",
+    "coord": [
+      34.455,
+      136.72583333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1754806",
+    "nameFr": "mont Ontake",
+    "nameEn": "Mount Ontake",
+    "nameAr": "جبل أونتاكي",
+    "nameJa": "御嶽山",
+    "nbLiens": "42",
+    "coord": [
+      35.893055555555556,
+      137.48055555555555
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q672056",
+    "nameFr": "temple Kōtoku",
+    "nameEn": "Kōtoku-in Temple",
+    "nameAr": "",
+    "nameJa": "高徳院",
+    "nbLiens": "42",
+    "coord": [
+      35.31686111111111,
+      139.53572222222223
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q714828",
+    "nameFr": "Fushimi Inari-taisha",
+    "nameEn": "Fushimi Inari-taisha",
+    "nameAr": "فوشيمي إناري",
+    "nameJa": "伏見稲荷大社",
+    "nbLiens": "41",
+    "coord": [
+      34.967202,
+      135.773386
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q648629",
+    "nameFr": "château de Nagoya",
+    "nameEn": "Nagoya Castle",
+    "nameAr": "قلعة ناغويا",
+    "nameJa": "名古屋城",
+    "nbLiens": "40",
+    "coord": [
+      35.185555555556,
+      136.89861111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q748040",
+    "nameFr": "mont Hiei",
+    "nameEn": "Mount Hiei",
+    "nameAr": "جبل هيه",
+    "nameJa": "比叡山",
+    "nbLiens": "39",
+    "coord": [
+      35.066666666667,
+      135.83833333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q907052",
+    "nameFr": "château de Shuri",
+    "nameEn": "Shuri Castle",
+    "nameAr": "قلعة شوري",
+    "nameJa": "首里城",
+    "nbLiens": "39",
+    "coord": [
+      26.217030555556,
+      127.719475
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q613355",
+    "nameFr": "château de Kumamoto",
+    "nameEn": "Kumamoto Castle",
+    "nameAr": "",
+    "nameJa": "熊本城",
+    "nbLiens": "38",
+    "coord": [
+      32.806063888889,
+      130.70597222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174139",
+    "nameFr": "Iwami Ginzan",
+    "nameEn": "Iwami Ginzan Silver Mine",
+    "nameAr": "منجم إوامي غينزان للفضة",
+    "nameJa": "石見銀山",
+    "nbLiens": "37",
+    "coord": [
+      35.107222,
+      132.4375
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q739612",
+    "nameFr": "château de Matsumoto",
+    "nameEn": "Matsumoto Castle",
+    "nameAr": "قلعة ماتسوموتو",
+    "nameJa": "松本城",
+    "nbLiens": "37",
+    "coord": [
+      36.238888888889,
+      137.96916666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61094",
+    "nameFr": "Byōdō-in",
+    "nameEn": "Byōdō-in Temple",
+    "nameAr": "",
+    "nameJa": "平等院",
+    "nbLiens": "37",
+    "coord": [
+      34.889444444444,
+      135.80777777778
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2859566",
+    "nameFr": "Arashiyama",
+    "nameEn": "Arashiyama",
+    "nameAr": "Kyoto/Arashiyama",
+    "nameJa": "嵐山",
+    "nbLiens": "36",
+    "coord": [
+      35.00958333333333,
+      135.6663888888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q587108",
+    "nameFr": "Landmark Tower",
+    "nameEn": "Yokohama Landmark Tower",
+    "nameAr": "برج يوكوهاما",
+    "nameJa": "横浜ランドマークタワー",
+    "nbLiens": "36",
+    "coord": [
+      35.454722222222,
+      139.63166666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1362629",
+    "nameFr": "musée national de l'Art occidental",
+    "nameEn": "National Museum of Western Art",
+    "nameAr": "المتحف الوطني للفن الغربي",
+    "nameJa": "国立西洋美術館",
+    "nbLiens": "35",
+    "coord": [
+      35.7153567,
+      139.7758498
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151776",
+    "nameFr": "château de Matsue",
+    "nameEn": "Matsue Castle",
+    "nameAr": "قلعة ماتسويه",
+    "nameJa": "松江城",
+    "nbLiens": "34",
+    "coord": [
+      35.474977777778,
+      133.05055555556
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q287165",
+    "nameFr": "sanctuaire Meiji",
+    "nameEn": "Meiji Jingū",
+    "nameAr": "مقدس ميجي",
+    "nameJa": "明治神宮",
+    "nbLiens": "34",
+    "coord": [
+      35.676111111111,
+      139.69916666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37580",
+    "nameFr": "chutes de Kegon",
+    "nameEn": "Kegon Falls",
+    "nameAr": "شلال كيغون",
+    "nameJa": "華厳滝",
+    "nbLiens": "34",
+    "coord": [
+      36.73788888888889,
+      139.502
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q257473",
+    "nameFr": "Ginkaku-ji",
+    "nameEn": "Ginkaku-ji Temple",
+    "nameAr": "غينكاكو-جي",
+    "nameJa": "慈照寺",
+    "nbLiens": "33",
+    "coord": [
+      35.026666666667,
+      135.79833333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q917195",
+    "nameFr": "temple Enryaku",
+    "nameEn": "Enryaku-ji Temple",
+    "nameAr": "",
+    "nameJa": "延暦寺",
+    "nbLiens": "32",
+    "coord": [
+      35.070555555556,
+      135.84111111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2639098",
+    "nameFr": "mont Haku",
+    "nameEn": "Mount Haku",
+    "nameAr": "",
+    "nameJa": "白山",
+    "nbLiens": "32",
+    "coord": [
+      36.1,
+      136.5
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q587371",
+    "nameFr": "Ryōan-ji",
+    "nameEn": "Ryōan-ji Temple",
+    "nameAr": "",
+    "nameJa": "龍安寺",
+    "nbLiens": "32",
+    "coord": [
+      35.034444444444,
+      135.71833333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1077984",
+    "nameFr": "lac Kasumigaura",
+    "nameEn": "Lake Kasumigaura",
+    "nameAr": "بحيرة كاسوميغاورا",
+    "nameJa": "霞ヶ浦",
+    "nbLiens": "31",
+    "coord": [
+      36.040277777778,
+      140.39416666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q961873",
+    "nameFr": "mont Kita",
+    "nameEn": "Mount Kita",
+    "nameAr": "جبل كيتا",
+    "nameJa": "北岳",
+    "nbLiens": "31",
+    "coord": [
+      35.67432,
+      138.23874
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q339859",
+    "nameFr": "temple Shitennō",
+    "nameEn": "Shitennō-ji Temple",
+    "nameAr": "",
+    "nameJa": "四天王寺",
+    "nbLiens": "31",
+    "coord": [
+      34.6539,
+      135.51645
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q696362",
+    "nameFr": "grand sanctuaire d'Izumo",
+    "nameEn": "Izumo Taisha",
+    "nameAr": "إزومو-تايشا",
+    "nameJa": "出雲大社",
+    "nbLiens": "31",
+    "coord": [
+      35.401944444444446,
+      132.68544444444444
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41977",
+    "nameFr": "château de Hiroshima",
+    "nameEn": "Hiroshima Castle",
+    "nameAr": "قلعة هيروشيما",
+    "nameJa": "広島城",
+    "nbLiens": "31",
+    "coord": [
+      34.40275,
+      132.45902777777778
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q615183",
+    "nameFr": "temple Sensō",
+    "nameEn": "Sensō-ji Temple",
+    "nameAr": "",
+    "nameJa": "浅草寺",
+    "nbLiens": "31",
+    "coord": [
+      35.714555555556,
+      139.79663888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1046403",
+    "nameFr": "temple de l'Est",
+    "nameEn": "Tō-ji Temple",
+    "nameAr": "",
+    "nameJa": "東寺",
+    "nbLiens": "30",
+    "coord": [
+      34.980555555556,
+      135.74777777778
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1070863",
+    "nameFr": "Kōfuku-ji",
+    "nameEn": "Kōfuku-ji Temple",
+    "nameAr": "كوفوكو-جي",
+    "nameJa": "興福寺",
+    "nbLiens": "29",
+    "coord": [
+      34.683207,
+      135.831302
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1013399",
+    "nameFr": "château de Nijō",
+    "nameEn": "Nijō Castle",
+    "nameAr": "",
+    "nameJa": "元離宮二条城",
+    "nbLiens": "29",
+    "coord": [
+      35.014166666667,
+      135.7475
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q945913",
+    "nameFr": "Yakushi-ji",
+    "nameEn": "Yakushi-ji Temple",
+    "nameAr": "",
+    "nameJa": "薬師寺",
+    "nbLiens": "29",
+    "coord": [
+      34.668355555556,
+      135.78431111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1373738",
+    "nameFr": "mont Suribachi",
+    "nameEn": "Mount Suribachi",
+    "nameAr": "جبل سوريباتشي",
+    "nameJa": "摺鉢山",
+    "nbLiens": "29",
+    "coord": [
+      24.749030555556,
+      141.28778333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713619",
+    "nameFr": "mont Yōtei",
+    "nameEn": "Mount Yōtei",
+    "nameAr": "جبل يوتيه",
+    "nameJa": "羊蹄山",
+    "nbLiens": "29",
+    "coord": [
+      42.827222222222,
+      140.80638888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q714559",
+    "nameFr": "Kasuga-taisha",
+    "nameEn": "Kasuga-taisha",
+    "nameAr": "",
+    "nameJa": "春日大社",
+    "nbLiens": "28",
+    "coord": [
+      34.681336,
+      135.848348
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1012374",
+    "nameFr": "château de Hikone",
+    "nameEn": "Hikone Castle",
+    "nameAr": "",
+    "nameJa": "彦根城",
+    "nbLiens": "27",
+    "coord": [
+      35.276388888889,
+      136.25166666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1155484",
+    "nameFr": "château d'Inuyama",
+    "nameEn": "Inuyama Castle",
+    "nameAr": "",
+    "nameJa": "犬山城",
+    "nbLiens": "27",
+    "coord": [
+      35.388333333333,
+      136.93916666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1193480",
+    "nameFr": "cathédrale Sainte-Marie de Tokyo",
+    "nameEn": "St. Mary's Cathedral",
+    "nameAr": "",
+    "nameJa": "東京カテドラル聖マリア大聖堂",
+    "nbLiens": "27",
+    "coord": [
+      35.714167,
+      139.726667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1362638",
+    "nameFr": "centre national des Arts de Tokyo",
+    "nameEn": "National Art Center, Tokyo",
+    "nameAr": "المركز الوطني للفنون",
+    "nameJa": "国立新美術館",
+    "nbLiens": "27",
+    "coord": [
+      35.66528,
+      139.72634
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q700448",
+    "nameFr": "sanctuaire Kamigamo",
+    "nameEn": "Kamigamo Shrine",
+    "nameAr": "معبد كاميغامو",
+    "nameJa": "賀茂別雷神社",
+    "nbLiens": "27",
+    "coord": [
+      35.060507,
+      135.752752
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q385141",
+    "nameFr": "sanctuaire Heian",
+    "nameEn": "Heian Jingū",
+    "nameAr": "ضريح هييان",
+    "nameJa": "平安神宮",
+    "nbLiens": "27",
+    "coord": [
+      35.016666666667,
+      135.78222222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1196273",
+    "nameFr": "château de Fushimi",
+    "nameEn": "Fushimi Castle",
+    "nameAr": "",
+    "nameJa": "伏見城",
+    "nbLiens": "26",
+    "coord": [
+      34.939501,
+      135.77686
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1196357",
+    "nameFr": "Goryōkaku",
+    "nameEn": "Goryōkaku",
+    "nameAr": "",
+    "nameJa": "五稜郭",
+    "nbLiens": "26",
+    "coord": [
+      41.796944,
+      140.756944
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q947907",
+    "nameFr": "musée Ghibli",
+    "nameEn": "Ghibli Museum",
+    "nameAr": "متحف جيبلي",
+    "nameJa": "三鷹の森ジブリ美術館",
+    "nbLiens": "26",
+    "coord": [
+      35.696233,
+      139.570431
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1157658",
+    "nameFr": "Groupe volcanique Daisetsuzan",
+    "nameEn": "Daisetsuzan Volcanic Group",
+    "nameAr": "",
+    "nameJa": "大雪山",
+    "nbLiens": "25",
+    "coord": [
+      43.65,
+      142.85
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1202871",
+    "nameFr": "Ninna-ji",
+    "nameEn": "Ninna-ji Temple",
+    "nameAr": "",
+    "nameJa": "仁和寺",
+    "nbLiens": "25",
+    "coord": [
+      35.03111111,
+      135.71388889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1196381",
+    "nameFr": "Fujiwara-kyō",
+    "nameEn": "Fujiwara-kyō",
+    "nameAr": "",
+    "nameJa": "藤原京",
+    "nbLiens": "25",
+    "coord": [
+      34.502222,
+      135.807222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1367052",
+    "nameFr": "château de Gifu",
+    "nameEn": "Gifu Castle",
+    "nameAr": "قلعة غيفو",
+    "nameJa": "岐阜城",
+    "nbLiens": "25",
+    "coord": [
+      35.43388889,
+      136.78222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1964765",
+    "nameFr": "mont Nantai",
+    "nameEn": "Mount Nantai",
+    "nameAr": "جبل نانتاي",
+    "nameJa": "男体山",
+    "nbLiens": "25",
+    "coord": [
+      36.761944444444,
+      139.49388888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2620173",
+    "nameFr": "mont Tokachi",
+    "nameEn": "Mount Tokachi",
+    "nameAr": "",
+    "nameJa": "十勝岳",
+    "nbLiens": "25",
+    "coord": [
+      43.417827777778,
+      142.68621666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1151808",
+    "nameFr": "Umeda Sky Building",
+    "nameEn": "Umeda Sky Building",
+    "nameAr": "مبنى أوميدا سكاي",
+    "nameJa": "梅田スカイビル",
+    "nbLiens": "24",
+    "coord": [
+      34.705277777778,
+      135.48972222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1013448",
+    "nameFr": "château d'Okayama",
+    "nameEn": "Okayama Castle",
+    "nameAr": "",
+    "nameJa": "岡山城",
+    "nbLiens": "24",
+    "coord": [
+      34.665277777778,
+      133.93611111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1754619",
+    "nameFr": "mont Tsukuba",
+    "nameEn": "Mount Tsukuba",
+    "nameAr": "جبل تسوكوبا",
+    "nameJa": "筑波山",
+    "nbLiens": "24",
+    "coord": [
+      36.22580555555555,
+      140.105
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1365882",
+    "nameFr": "chutes de Nachi",
+    "nameEn": "Nachi Falls",
+    "nameAr": "",
+    "nameJa": "那智滝",
+    "nbLiens": "24",
+    "coord": [
+      33.672,
+      135.891
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2977103",
+    "nameFr": "mont Tate",
+    "nameEn": "Mount Tate",
+    "nameAr": "",
+    "nameJa": "立山",
+    "nbLiens": "24",
+    "coord": [
+      36.575833333333,
+      137.61972222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2744214",
+    "nameFr": "mont Ishizuchi",
+    "nameEn": "Mount Ishizuchi",
+    "nameAr": "",
+    "nameJa": "石鎚山",
+    "nbLiens": "24",
+    "coord": [
+      33.766666666667,
+      133.11666666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1013437",
+    "nameFr": "château d'Odawara",
+    "nameEn": "Odawara Castle",
+    "nameAr": "",
+    "nameJa": "小田原城",
+    "nbLiens": "23",
+    "coord": [
+      35.250833333333,
+      139.15361111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1148463",
+    "nameFr": "Tsūtenkaku",
+    "nameEn": "Tsūtenkaku",
+    "nameAr": "تسوتنكاكو",
+    "nameJa": "通天閣",
+    "nbLiens": "23",
+    "coord": [
+      34.65222222222222,
+      135.50611111111112
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1196295",
+    "nameFr": "lac Shikotsu",
+    "nameEn": "Lake Shikotsu",
+    "nameAr": "",
+    "nameJa": "支笏湖",
+    "nbLiens": "23",
+    "coord": [
+      42.75,
+      141.33333333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1157535",
+    "nameFr": "temple Daigo",
+    "nameEn": "Daigo-ji Temple",
+    "nameAr": "دايجو جي",
+    "nameJa": "醍醐寺",
+    "nbLiens": "23",
+    "coord": [
+      34.95111111,
+      135.81944444
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1329031",
+    "nameFr": "lac Saroma",
+    "nameEn": "Lake Saroma",
+    "nameAr": "",
+    "nameJa": "サロマ湖",
+    "nbLiens": "23",
+    "coord": [
+      44.166666666667,
+      143.71666666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1329959",
+    "nameFr": "mont Takao",
+    "nameEn": "Mount Takao",
+    "nameAr": "جبل تاكاو",
+    "nameJa": "高尾山",
+    "nbLiens": "23",
+    "coord": [
+      35.625277777778,
+      139.24361111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1359908",
+    "nameFr": "musée national d’Art moderne de Tokyo",
+    "nameEn": "The National Museum of Modern Art",
+    "nameAr": "المتحف الوطني للفنون الحديثة في طوكيو",
+    "nameJa": "東京国立近代美術館",
+    "nbLiens": "23",
+    "coord": [
+      35.690553,
+      139.754642
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713836",
+    "nameFr": "mont Iwate",
+    "nameEn": "Mount Iwate",
+    "nameAr": "",
+    "nameJa": "岩手山",
+    "nbLiens": "23",
+    "coord": [
+      39.8525,
+      141.00111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2154758",
+    "nameFr": "mont Rishiri",
+    "nameEn": "Mount Rishiri",
+    "nameAr": "جبل ريشيري",
+    "nameJa": "利尻山",
+    "nbLiens": "23",
+    "coord": [
+      45.17865,
+      141.24192222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q415251",
+    "nameFr": "mont Akagi",
+    "nameEn": "Mount Akagi",
+    "nameAr": "",
+    "nameJa": "赤城山",
+    "nbLiens": "23",
+    "coord": [
+      36.560833333333,
+      139.19361111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q482065",
+    "nameFr": "Atsuta-jingū",
+    "nameEn": "Atsuta Jingū",
+    "nameAr": "أتسوتا جينغو",
+    "nameJa": "熱田神宮",
+    "nbLiens": "23",
+    "coord": [
+      35.126509,
+      136.908698
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2166743",
+    "nameFr": "Tōfuku-ji",
+    "nameEn": "Tōfuku-ji Temple",
+    "nameAr": "توفوكو-جي",
+    "nameJa": "東福寺",
+    "nbLiens": "23",
+    "coord": [
+      34.975707,
+      135.773676
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q692714",
+    "nameFr": "sanctuaire de Yasaka",
+    "nameEn": "Yasaka Shrine",
+    "nameAr": "",
+    "nameJa": "八坂神社",
+    "nbLiens": "23",
+    "coord": [
+      35.003645,
+      135.778529
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q798766",
+    "nameFr": "tour du port de Kobe",
+    "nameEn": "Kobe Port Tower",
+    "nameAr": "برج ميناء كوبه",
+    "nameJa": "神戸ポートタワー",
+    "nbLiens": "23",
+    "coord": [
+      34.6825,
+      135.18666666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q429402",
+    "nameFr": "lac Akan",
+    "nameEn": "Lake Akan",
+    "nameAr": "",
+    "nameJa": "阿寒湖",
+    "nbLiens": "23",
+    "coord": [
+      43.451666666667,
+      144.09861111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1143892",
+    "nameFr": "château de Maruoka",
+    "nameEn": "Maruoka Castle",
+    "nameAr": "",
+    "nameJa": "丸岡城",
+    "nbLiens": "22",
+    "coord": [
+      36.152347222222,
+      136.27209722222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1089767",
+    "nameFr": "temple Nanzen",
+    "nameEn": "Nanzen-ji Temple",
+    "nameAr": "",
+    "nameJa": "南禅寺",
+    "nbLiens": "22",
+    "coord": [
+      35.011111111111,
+      135.79416666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q328582",
+    "nameFr": "château de Hirosaki",
+    "nameEn": "Hirosaki Castle",
+    "nameAr": "",
+    "nameJa": "弘前城",
+    "nbLiens": "22",
+    "coord": [
+      40.608036111111,
+      140.46380555556
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1377333",
+    "nameFr": "mont Osore",
+    "nameEn": "Mount Osore",
+    "nameAr": "جبل أوسوري",
+    "nameJa": "恐山",
+    "nbLiens": "22",
+    "coord": [
+      41.279,
+      141.12
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3695492",
+    "nameFr": "mont Ai",
+    "nameEn": "Ainodake",
+    "nameAr": "جبل آينو",
+    "nameJa": "間ノ岳",
+    "nbLiens": "22",
+    "coord": [
+      35.646111111111,
+      138.22833333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q714555",
+    "nameFr": "mont Rausu",
+    "nameEn": "Mount Rausu",
+    "nameAr": "",
+    "nameJa": "羅臼岳",
+    "nbLiens": "22",
+    "coord": [
+      44.075833333333,
+      145.1225
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713857",
+    "nameFr": "mont Iwaki",
+    "nameEn": "Mount Iwaki",
+    "nameAr": "",
+    "nameJa": "岩木山",
+    "nbLiens": "22",
+    "coord": [
+      40.653333,
+      140.306667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1516753",
+    "nameFr": "temple Saihō",
+    "nameEn": "Saihō-ji Temple",
+    "nameAr": "",
+    "nameJa": "西芳寺",
+    "nbLiens": "22",
+    "coord": [
+      34.9925,
+      135.68416666666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1781878",
+    "nameFr": "mont Kumotori",
+    "nameEn": "Mount Kumotori",
+    "nameAr": "",
+    "nameJa": "雲取山",
+    "nbLiens": "22",
+    "coord": [
+      35.855277777778,
+      138.94361111111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q701620",
+    "nameFr": "sanctuaire Shimogamo",
+    "nameEn": "Shimogamo Shrine",
+    "nameAr": "",
+    "nameJa": "賀茂御祖神社",
+    "nbLiens": "22",
+    "coord": [
+      35.039069,
+      135.773012
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1012815",
+    "nameFr": "château de Kōchi",
+    "nameEn": "Kōchi Castle",
+    "nameAr": "",
+    "nameJa": "高知城",
+    "nbLiens": "21",
+    "coord": [
+      33.561111111111,
+      133.53138888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1201304",
+    "nameFr": "tour de Kyoto",
+    "nameEn": "Kyoto Tower",
+    "nameAr": "",
+    "nameJa": "京都タワー",
+    "nbLiens": "21",
+    "coord": [
+      34.9875,
+      135.75916666667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q511412",
+    "nameFr": "château de Kanazawa",
+    "nameEn": "Kanazawa Castle",
+    "nameAr": "قلعة كانازاوا",
+    "nameJa": "金沢城",
+    "nbLiens": "21",
+    "coord": [
+      36.564317,
+      136.659228
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q701403",
+    "nameFr": "sanctuaire Hachiman de Tsurugaoka",
+    "nameEn": "Tsurugaoka Hachimangū",
+    "nameAr": "",
+    "nameJa": "鶴岡八幡宮",
+    "nbLiens": "21",
+    "coord": [
+      35.32608056,
+      139.55641667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q279915",
+    "nameFr": "mont Kusatsu-Shirane",
+    "nameEn": "Mount Kusatsu-Shirane",
+    "nameAr": "جبل كوساتسو-شيرانه",
+    "nameJa": "草津白根山",
+    "nbLiens": "21",
+    "coord": [
+      36.645277777778,
+      138.52833333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q713826",
+    "nameFr": "mont Chōkai",
+    "nameEn": "Mount Chōkai",
+    "nameAr": "",
+    "nameJa": "鳥海山",
+    "nbLiens": "21",
+    "coord": [
+      39.099166666667,
+      140.04888888889
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1655766",
+    "nameFr": "église de la lumière",
+    "nameEn": "Church of the Light",
+    "nameAr": "",
+    "nameJa": "茨木春日丘教会",
+    "nbLiens": "21",
+    "coord": [
+      34.818611,
+      135.536944
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q752394",
+    "nameFr": "Asuka-kyō",
+    "nameEn": "Asuka",
+    "nameAr": "أسوكا (ياماتو)",
+    "nameJa": "飛鳥京",
+    "nbLiens": "21",
+    "coord": [
+      34.48222222,
+      135.81305556
+    ]
+  }
+]

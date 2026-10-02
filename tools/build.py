@@ -4,7 +4,7 @@
   src/<lang>.md + build/figures/*.png + style/style.css
       -> build/<lang>.html -> build/26-09_GeospatialSearch_<lang>.pdf
 
-Before building, verifies that every code block in the translation is
+Before building, verifies that every 4D/JS code block in the translation is
 byte-identical to the English source and that every figure is referenced.
 """
 import argparse
@@ -31,9 +31,14 @@ CODE_RE = re.compile(r"^```[^\n]*\n.*?^```$", re.S | re.M)
 FIG_RE = re.compile(r"!\[[^\]]*\]\((fig-\d+)\)")
 
 
+def program_code(md: str) -> list:
+    """Code blocks that must not change. ```text blocks hold sample values and may be localised."""
+    return [c for c in CODE_RE.findall(md) if not c.startswith("```text")]
+
+
 def check(en: str, tr: str, lang: str) -> list:
     problems = []
-    en_code, tr_code = CODE_RE.findall(en), CODE_RE.findall(tr)
+    en_code, tr_code = program_code(en), program_code(tr)
     if len(en_code) != len(tr_code):
         problems.append(f"en.md has {len(en_code)} code blocks, {lang}.md has {len(tr_code)}")
     for i, (a, b) in enumerate(zip(en_code, tr_code), 1):

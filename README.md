@@ -36,7 +36,8 @@ make figures  # only re-render build/figures/*.png
 ### Editing the body text (`src/ja.md`)
 
 - Markdown: `##`/`###`/`####` headings, `-` lists, `**bold**`, tables.
-- Code blocks (```` ``` ````) must stay byte-identical to `src/en.md`; the build refuses to run otherwise.
+- 4D/JS code blocks must stay byte-identical to `src/en.md`; the build refuses to run otherwise.
+  ```` ```text ```` blocks hold sample values (coordinates etc.) and may differ.
 - `![caption](fig-NN)` places a figure; translate the caption, keep `fig-NN`.
 - Paragraphs are in the same order as `src/en.md`, so the two files can be compared side by side.
 - The table of contents and its page numbers are generated automatically.
@@ -56,6 +57,18 @@ Optional per-label tweaks in `figures/layout/fig-NN.json` (`items[N-1]`):
 
 `fig-11` is a screenshot of the application UI; it is used unchanged (`"localize": false`).
 Replace `figures/fig-11.png` with a Japanese screenshot if one is available.
+
+### Demo data (`data/`)
+
+The Japanese edition uses Japanese locations instead of the original Moroccan ones:
+
+- `data/japan-cities.json` – 30 Japanese cities (by Wikidata sitelinks, Tokyo included).
+- `data/touristic-sites.json` – 100 Japanese tourist sites (by Wikidata sitelinks).
+- `data/morocco/` – the original Moroccan files, for reference.
+
+Records keep the original format (`item`, `nameFr`, `nameEn`, `nameAr`, `population`/`nbLiens`, `coord`)
+and add `nameJa`. `nameAr` is empty where Wikidata has no Arabic label. The examples in `src/ja.md`
+use Kyoto (京都, 35.0116 / 135.7681) and Osaka (大阪); `src/en.md` keeps the original Moroccan examples.
 
 ### Re-extracting
 
