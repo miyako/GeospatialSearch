@@ -9,6 +9,10 @@ Case of
 		
 	: (Form event code:C388=On Clicked:K2:4)
 		
-		runTechNote:=True:C214
+		// The button's Accept action closes the Welcome window afterwards
+		var $window : Integer
+		$window:=Open form window:C675("TouristicSiteFinder"; Plain form window:K39:10; Horizontally centered:K39:1; Vertically centered:K39:4)
+		SET WINDOW TITLE(Get window title(Current form window); $window)
+		DIALOG:C40("TouristicSiteFinder"; *)
 		
 End case 
