@@ -14,7 +14,7 @@
 	"events": [
 		"onLoad"
 	],
-	"windowTitle": "Touristic Site Finder",
+	"windowTitle": ":xliff:Welcome_WindowTitle",
 	"destination": "detailScreen",
 	"pages": [
 		{
@@ -78,7 +78,7 @@
 				},
 				"tEyebrow": {
 					"type": "text",
-					"text": "MOROCCO · HERITAGE SITES",
+					"text": ":xliff:Welcome_Eyebrow",
 					"top": 32,
 					"left": 56,
 					"width": 420,
@@ -91,7 +91,7 @@
 				},
 				"tTitle": {
 					"type": "text",
-					"text": "Touristic Site Finder",
+					"text": ":xliff:Welcome_Title",
 					"top": 52,
 					"left": 56,
 					"width": 540,
@@ -112,7 +112,7 @@
 				},
 				"tSubtitle": {
 					"type": "text",
-					"text": "This 4D application allows you to perform geographic search on a set of touristic sites in Morocco, retrieved from Wikidata (https://www.wikidata.org).  You simply select a city and a maximum search distance. Using a formula that measures the distance between two geographic points, an ORDA query then retrieves every touristic site located within that distance, ranked from nearest to farthest.  The selected city and site are displayed on an interactive map using a 4D Web Area (powered by Leaflet and OpenStreetMap).",
+					"text": ":xliff:Welcome_Subtitle",
 					"top": 127,
 					"left": 56,
 					"width": 500,
@@ -143,7 +143,7 @@
 					"textAlign": "center",
 					"verticalAlign": "middle",
 					"dataSourceTypeHint": "text",
-					"dataSource": "String:C10(siteCount)+\" touristic sites\"",
+					"dataSource": "Replace string(Localized string(\"Welcome_SiteCount\"); \"{n}\"; String:C10(siteCount))",
 					"stroke": "#696969",
 					"fontWeight": "bold",
 					"fill": "transparent"
@@ -170,7 +170,7 @@
 					"textAlign": "center",
 					"verticalAlign": "middle",
 					"dataSourceTypeHint": "text",
-					"dataSource": "String:C10(cityCount)+\" departure cities\"",
+					"dataSource": "Replace string(Localized string(\"Welcome_CityCount\"); \"{n}\"; String:C10(cityCount))",
 					"fill": "transparent",
 					"stroke": "#696969",
 					"fontWeight": "bold"
@@ -186,7 +186,7 @@
 				},
 				"tChip3": {
 					"type": "text",
-					"text": "up to 500 km",
+					"text": ":xliff:Welcome_Range",
 					"top": 275,
 					"left": 378,
 					"width": 144,
@@ -280,7 +280,7 @@
 				},
 				"tPreviewCaption": {
 					"type": "text",
-					"text": "one departure city, every site in range",
+					"text": ":xliff:Welcome_PreviewCaption",
 					"top": 223,
 					"left": 616,
 					"width": 224,
@@ -293,7 +293,7 @@
 				},
 				"tSection": {
 					"type": "text",
-					"text": "IN THE DATASET",
+					"text": ":xliff:Welcome_Section",
 					"top": 240,
 					"left": 56,
 					"width": 400,
@@ -338,7 +338,7 @@
 				},
 				"bExplore": {
 					"type": "button",
-					"text": "Explore Touristic Sites →",
+					"text": ":xliff:Welcome_Explore",
 					"top": 502,
 					"left": 56,
 					"width": 240,
@@ -360,7 +360,7 @@
 				},
 				"tAttribution": {
 					"type": "text",
-					"text": "Sites from Wikidata · Map tiles © OpenStreetMap contributors",
+					"text": ":xliff:Welcome_Attribution",
 					"top": 516,
 					"left": 485,
 					"width": 382,
@@ -373,7 +373,7 @@
 				},
 				"labelVersion": {
 					"type": "text",
-					"text": "VERSION",
+					"text": ":xliff:Welcome_LabelVersion",
 					"top": 373,
 					"left": 72,
 					"width": 100,
@@ -396,7 +396,7 @@
 				},
 				"labelDocs": {
 					"type": "text",
-					"text": "DOCS & BLOG",
+					"text": ":xliff:Welcome_LabelDocs",
 					"top": 373,
 					"left": 396,
 					"width": 87,
@@ -440,7 +440,7 @@
 				},
 				"labelStack": {
 					"type": "text",
-					"text": "STACK",
+					"text": ":xliff:Welcome_LabelStack",
 					"top": 373,
 					"left": 237,
 					"width": 100,

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="WelcomeJA.xlf" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="Welcome_WindowTitle" resname="Welcome_WindowTitle">
+				<source>Touristic Site Finder</source>
+				<target>観光名所ファインダー</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Eyebrow" resname="Welcome_Eyebrow">
+				<source>JAPAN · HERITAGE SITES</source>
+				<target>日本 · 観光名所</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Title" resname="Welcome_Title">
+				<source>Touristic Site Finder</source>
+				<target>観光名所ファインダー</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Subtitle" resname="Welcome_Subtitle">
+				<source>This 4D application allows you to perform geographic search on a set of touristic sites in Japan, retrieved from Wikidata (https://www.wikidata.org).  You simply select a city and a maximum search distance. Using a formula that measures the distance between two geographic points, an ORDA query then retrieves every touristic site located within that distance, ranked from nearest to farthest.  The selected city and site are displayed on an interactive map using a 4D Web Area (powered by Leaflet and OpenStreetMap).</source>
+				<target>この4Dアプリケーションでは、Wikidata（https://www.wikidata.org）から取得した日本の観光名所のデータセットを対象に、地理的な検索を行えます。都市と最大検索距離を選択するだけで、2地点間の距離を計算するフォーミュラを使ったORDAクエリが、その距離内にあるすべての観光名所を近い順に取得します。選択した都市と観光名所は、4D Webエリア（LeafletとOpenStreetMapを使用）のインタラクティブな地図に表示されます。</target>
+			</trans-unit>
+			<trans-unit id="Welcome_SiteCount" resname="Welcome_SiteCount">
+				<source>{n} touristic sites</source>
+				<target>観光名所 {n} 件</target>
+			</trans-unit>
+			<trans-unit id="Welcome_CityCount" resname="Welcome_CityCount">
+				<source>{n} departure cities</source>
+				<target>出発地点 {n} 都市</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Range" resname="Welcome_Range">
+				<source>up to 500 km</source>
+				<target>最大 500 km</target>
+			</trans-unit>
+			<trans-unit id="Welcome_PreviewCaption" resname="Welcome_PreviewCaption">
+				<source>one departure city, every site in range</source>
+				<target>1つの出発都市から、範囲内のすべての観光名所を</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Section" resname="Welcome_Section">
+				<source>IN THE DATASET</source>
+				<target>データセットの内容</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Explore" resname="Welcome_Explore">
+				<source>Explore Touristic Sites →</source>
+				<target>観光名所を探す →</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Attribution" resname="Welcome_Attribution">
+				<source>Sites from Wikidata · Map tiles © OpenStreetMap contributors</source>
+				<target>観光名所データ：Wikidata · 地図タイル © OpenStreetMap contributors</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelVersion" resname="Welcome_LabelVersion">
+				<source>VERSION</source>
+				<target>バージョン</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelDocs" resname="Welcome_LabelDocs">
+				<source>DOCS &amp; BLOG</source>
+				<target>ドキュメント &amp; ブログ</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelStack" resname="Welcome_LabelStack">
+				<source>STACK</source>
+				<target>使用技術</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="TouristicSiteFinderEN.xlf" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="Finder_WindowTitle" resname="Finder_WindowTitle">
+				<source>Touristic Site Finder</source>
+				<target>Touristic Site Finder</target>
+			</trans-unit>
+			<trans-unit id="Finder_CurrentLocation" resname="Finder_CurrentLocation">
+				<source>Current location (city):</source>
+				<target>Current location (city):</target>
+			</trans-unit>
+			<trans-unit id="Finder_MaxDistance" resname="Finder_MaxDistance">
+				<source>Maximum distance (km):</source>
+				<target>Maximum distance (km):</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderSiteName" resname="Finder_HeaderSiteName">
+				<source>Touristic site name</source>
+				<target>Touristic site name</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderDistance" resname="Finder_HeaderDistance">
+				<source>Distance (km)</source>
+				<target>Distance (km)</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderCoordinates" resname="Finder_HeaderCoordinates">
+				<source>Coordinates</source>
+				<target>Coordinates</target>
+			</trans-unit>
+			<trans-unit id="Finder_FoundSites" resname="Finder_FoundSites">
+				<source>Found sites:</source>
+				<target>Found sites:</target>
+			</trans-unit>
+			<trans-unit id="Finder_CityDeparture" resname="Finder_CityDeparture">
+				<source>City (departure)</source>
+				<target>City (departure)</target>
+			</trans-unit>
+			<trans-unit id="Finder_SiteArrival" resname="Finder_SiteArrival">
+				<source>Touristic site (arrival)</source>
+				<target>Touristic site (arrival)</target>
+			</trans-unit>
+			<trans-unit id="Finder_None" resname="Finder_None">
+				<source>none</source>
+				<target>none</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

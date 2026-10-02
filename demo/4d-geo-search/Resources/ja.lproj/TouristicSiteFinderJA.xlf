@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="TouristicSiteFinderJA.xlf" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="Finder_WindowTitle" resname="Finder_WindowTitle">
+				<source>Touristic Site Finder</source>
+				<target>観光名所ファインダー</target>
+			</trans-unit>
+			<trans-unit id="Finder_CurrentLocation" resname="Finder_CurrentLocation">
+				<source>Current location (city):</source>
+				<target>現在地（都市）：</target>
+			</trans-unit>
+			<trans-unit id="Finder_MaxDistance" resname="Finder_MaxDistance">
+				<source>Maximum distance (km):</source>
+				<target>最大距離（km）：</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderSiteName" resname="Finder_HeaderSiteName">
+				<source>Touristic site name</source>
+				<target>観光名所名</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderDistance" resname="Finder_HeaderDistance">
+				<source>Distance (km)</source>
+				<target>距離（km）</target>
+			</trans-unit>
+			<trans-unit id="Finder_HeaderCoordinates" resname="Finder_HeaderCoordinates">
+				<source>Coordinates</source>
+				<target>座標</target>
+			</trans-unit>
+			<trans-unit id="Finder_FoundSites" resname="Finder_FoundSites">
+				<source>Found sites:</source>
+				<target>見つかった観光名所：</target>
+			</trans-unit>
+			<trans-unit id="Finder_CityDeparture" resname="Finder_CityDeparture">
+				<source>City (departure)</source>
+				<target>都市（出発地点）</target>
+			</trans-unit>
+			<trans-unit id="Finder_SiteArrival" resname="Finder_SiteArrival">
+				<source>Touristic site (arrival)</source>
+				<target>観光名所（到着地点）</target>
+			</trans-unit>
+			<trans-unit id="Finder_None" resname="Finder_None">
+				<source>none</source>
+				<target>なし</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
