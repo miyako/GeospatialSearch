@@ -1,0 +1,7 @@
+.venv/
+build/
+.DS_Store
+__pycache__/
+demo/*/Data/
+demo/*/userPreferences.*/
+demo/*/Project/DerivedData/

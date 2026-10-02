@@ -1,0 +1,34 @@
+{
+	"tables": {
+		"TouristicSite": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 240,
+				"top": 40,
+				"width": 122,
+				"height": 176.33203125
+			},
+			"displayable_fields_count": 6
+		},
+		"City": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 40,
+				"top": 40,
+				"width": 128,
+				"height": 228.0625
+			},
+			"displayable_fields_count": 8
+		}
+	}
+}

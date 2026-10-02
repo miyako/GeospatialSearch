@@ -1,0 +1,15 @@
+geoDistance()
+Two coordinate vectors
+Null check
+Either vector missing
+Infinite value returned
+Missing or malformed input
+Point excluded, no error
+Length check
+Exactly two values each
+Degrees to radians
+Multiplied by Degree
+Haversine formula
+Central angle obtained
+Distance in kilometres
+Angle times 6371

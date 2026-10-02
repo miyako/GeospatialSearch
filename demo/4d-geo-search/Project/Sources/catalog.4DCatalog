@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="4d-geo-search" uuid="8E5B8149F8DC4D8E831E5BE6B77C4C4C" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="City" uuid="166B6673EF4D44F6AB8BB7400A0E7163" id="1">
+		<field name="ID" uuid="6C10E896F415407AA8074D9E1BE0CF74" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="nameEN" uuid="82AC6202886B4C2B8812578A09AEAC08" type="10" id="2"/>
+		<field name="nameFR" uuid="C799DC69DC6C4F688766F71A9A2C523B" type="10" id="3"/>
+		<field name="nameJA" uuid="6AD0731443294A40848CDB1844B7EF16" type="10" id="4"/>
+		<field name="coordinates" uuid="593A54C0E59D49C6902D0323D3769145" type="21" blob_switch_size="2147483647" id="5">
+			<field_extra class_id="4D.Vector"/>
+		</field>
+		<field name="wikidataRef" uuid="64F06C8EB41042D4A6E6EF3902D0A406" type="10" id="6"/>
+		<field name="population" uuid="7184E76FB99E4321BD88919258BDE3F2" type="4" id="7"/>
+		<primary_key field_name="ID" field_uuid="6C10E896F415407AA8074D9E1BE0CF74"/>
+	</table>
+	<table name="TouristicSite" uuid="86D9C4368951440092D9C600E0340A92" id="2">
+		<field name="ID" uuid="2FEADD62F2FB40F6A4635DC898370E26" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="nameEN" uuid="6C4859B8F0294BC8B352F136665A40E9" type="10" id="2"/>
+		<field name="nameFR" uuid="50A9D19E93F14217AF90578A6B2EEF8E" type="10" id="3"/>
+		<field name="nameJA" uuid="D0AD9C6741AB49FB9605B4CC530CDC3D" type="10" id="4"/>
+		<field name="coordinates" uuid="9A17DE8A5AD24CF4BA938A50ACBF483E" type="21" blob_switch_size="2147483647" id="5">
+			<field_extra class_id="4D.Vector"/>
+		</field>
+		<field name="wikidataRef" uuid="647CBCC2759E40D7A6005A43A11226C4" type="10" id="6"/>
+		<primary_key field_name="ID" field_uuid="2FEADD62F2FB40F6A4635DC898370E26"/>
+	</table>
+	<index kind="regular" unique_keys="true" uuid="1BAA8CFCB5A54756A340B041CDB98561" type="7">
+		<field_ref uuid="6C10E896F415407AA8074D9E1BE0CF74" name="ID">
+			<table_ref uuid="166B6673EF4D44F6AB8BB7400A0E7163" name="City"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="DFC736BCDA934DC5AED9ACD20CC30DD7" type="7">
+		<field_ref uuid="2FEADD62F2FB40F6A4635DC898370E26" name="ID">
+			<table_ref uuid="86D9C4368951440092D9C600E0340A92" name="TouristicSite"/>
+		</field_ref>
+	</index>
+</base>

@@ -1,0 +1,332 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q7903",
+    "nameFr": "Casablanca",
+    "nameEn": "Casablanca",
+    "nameAr": "الدار البيضاء",
+    "population": "3215935",
+    "coord": [
+      33.599166666,
+      -7.62
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126148",
+    "nameFr": "Tanger",
+    "nameEn": "Tangier",
+    "nameAr": "طنجة",
+    "population": "1275428",
+    "coord": [
+      35.7696302,
+      -5.8033522
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80985",
+    "nameFr": "Fès",
+    "nameEn": "Fez",
+    "nameAr": "فاس",
+    "population": "1167842",
+    "coord": [
+      34.043333333,
+      -5.003333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101625",
+    "nameFr": "Marrakech",
+    "nameEn": "Marrakech",
+    "nameAr": "مراكش",
+    "population": "1002697",
+    "coord": [
+      31.62947,
+      -7.98108
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q466046",
+    "nameFr": "Salé",
+    "nameEn": "Salé",
+    "nameAr": "سلا",
+    "population": "945101",
+    "coord": [
+      34.05,
+      -6.816667
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3551",
+    "nameFr": "Rabat",
+    "nameEn": "Rabat",
+    "nameAr": "الرباط",
+    "population": "572717",
+    "coord": [
+      34.021111111,
+      -6.841388888
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178663",
+    "nameFr": "Meknès",
+    "nameEn": "Meknes",
+    "nameAr": "مكناس",
+    "population": "551503",
+    "coord": [
+      33.883333333,
+      -5.55
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170525",
+    "nameFr": "Agadir",
+    "nameEn": "Agadir",
+    "nameAr": "أكادير",
+    "population": "538000",
+    "coord": [
+      30.421388888,
+      -9.583055555
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q478207",
+    "nameFr": "Kénitra",
+    "nameEn": "Kenitra",
+    "nameAr": "القنيطرة",
+    "population": "507736",
+    "coord": [
+      34.25,
+      -6.583333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193802",
+    "nameFr": "Oujda",
+    "nameEn": "Oujda",
+    "nameAr": "وجدة",
+    "population": "506224",
+    "coord": [
+      34.686666666,
+      -1.911388888
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185157",
+    "nameFr": "Tétouan",
+    "nameEn": "Tétouan",
+    "nameAr": "تطوان",
+    "population": "422757",
+    "coord": [
+      35.5697958,
+      -5.3746918
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183405",
+    "nameFr": "Safi",
+    "nameEn": "Safi",
+    "nameAr": "آسفي",
+    "population": "367249",
+    "coord": [
+      32.283333333,
+      -9.233333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1635606",
+    "nameFr": "Témara",
+    "nameEn": "Temara",
+    "nameAr": "تمارة",
+    "population": "297098",
+    "coord": [
+      33.923366666,
+      -6.907647222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47837",
+    "nameFr": "Laâyoune",
+    "nameEn": "Laayoune",
+    "nameAr": "العيون",
+    "population": "262791",
+    "coord": [
+      27.15,
+      -13.2
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q219583",
+    "nameFr": "El Jadida",
+    "nameEn": "El Jadida",
+    "nameAr": "الجديدة",
+    "population": "235681",
+    "coord": [
+      33.2342,
+      -8.5228
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2384142",
+    "nameFr": "Aït Melloul",
+    "nameEn": "Ait Melloul",
+    "nameAr": "أيت ملول",
+    "population": "210870",
+    "coord": [
+      30.334166666,
+      -9.497222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2294847",
+    "nameFr": "Bouskoura",
+    "nameEn": "Bouskoura",
+    "nameAr": "بوسكورة",
+    "population": "200359",
+    "coord": [
+      33.44888889,
+      -7.64861111
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q647417",
+    "nameFr": "Mohammédia",
+    "nameEn": "Mohammedia",
+    "nameAr": "المحمدية",
+    "population": "194358",
+    "coord": [
+      33.683333333,
+      -7.383333333
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q818019",
+    "nameFr": "Settat",
+    "nameEn": "Settat",
+    "nameAr": "سطات",
+    "population": "171556",
+    "coord": [
+      33.002319,
+      -7.619801
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2191860",
+    "nameFr": "Berrechid",
+    "nameEn": "Berrechid",
+    "nameAr": "برشيد",
+    "population": "168687",
+    "coord": [
+      33.27,
+      -7.587222222
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q345204",
+    "nameFr": "Dakhla",
+    "nameEn": "Dakhla",
+    "nameAr": "الداخلة",
+    "population": "165463",
+    "coord": [
+      23.716666666,
+      -15.95
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q824594",
+    "nameFr": "Nador",
+    "nameEn": "Nador",
+    "nameAr": "الناظور",
+    "population": "161726",
+    "coord": [
+      35.1739922,
+      -2.9281198
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q574469",
+    "nameFr": "Taza",
+    "nameEn": "Taza",
+    "nameAr": "تازة",
+    "population": "148406",
+    "coord": [
+      34.214442,
+      -4.008789
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q606775",
+    "nameFr": "Larache",
+    "nameEn": "Larache",
+    "nameAr": "العرائش",
+    "population": "133731",
+    "coord": [
+      35.1952327,
+      -6.152913
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1046653",
+    "nameFr": "Khémisset",
+    "nameEn": "Khemisset",
+    "nameAr": "الخميسات",
+    "population": "131542",
+    "coord": [
+      33.81,
+      -6.06
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q842806",
+    "nameFr": "Guelmim",
+    "nameEn": "Guelmim",
+    "nameAr": "كلميم",
+    "population": "126729",
+    "coord": [
+      28.983333333,
+      -10.066666666
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52603",
+    "nameFr": "Ksar el-Kebir",
+    "nameEn": "Ksar el-Kebir",
+    "nameAr": "القصر الكبير",
+    "population": "124701",
+    "coord": [
+      34.999218,
+      -5.898724
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q990115",
+    "nameFr": "Khénifra",
+    "nameEn": "Khenifra",
+    "nameAr": "خنيفرة",
+    "population": "123738",
+    "coord": [
+      32.93,
+      -5.66
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1333077",
+    "nameFr": "Skhirate",
+    "nameEn": "Skhirat",
+    "nameAr": "الصخيرات",
+    "population": "122705",
+    "coord": [
+      33.8644,
+      -7.05836
+    ]
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2542724",
+    "nameFr": "Ben Guerir",
+    "nameEn": "Ben Guerir",
+    "nameAr": "ابن جرير",
+    "population": "114872",
+    "coord": [
+      32.23,
+      -7.95
+    ]
+  }
+]

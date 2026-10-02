@@ -1,0 +1,7 @@
+src only
+src and dst
+Site
+City
+City
+One marker, map centred on it
+Two markers joined by a dotted line

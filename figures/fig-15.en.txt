@@ -1,0 +1,4 @@
+Object built by buildMapData()
+Coordinates and label of the city
+dst — optional
+Coordinates and label of the site

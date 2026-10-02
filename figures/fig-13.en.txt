@@ -1,0 +1,10 @@
+Web area loads the page
+HTML document and Leaflet script
+Map initialised
+Centred on the selected city
+Tiles requested
+OpenStreetMap base layer
+Markers added
+One per site in the collection
+Interactive map
+Popups, zoom, distance lines

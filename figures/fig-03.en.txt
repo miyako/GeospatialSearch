@@ -1,0 +1,12 @@
+Decimal degrees
+31.6295 / -7.9811 — stored
+Method 1
+Distance calculation
+Degrees, minutes, seconds
+Full precision preserved
+Cardinal direction from sign
+Method 2
+Latitude and longitude joined
+Single DMS string
+Interface display only
+31°37'46"N 7°58'52"W

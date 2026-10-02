@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="WelcomeEN.xlf" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="Welcome_WindowTitle" resname="Welcome_WindowTitle">
+				<source>Touristic Site Finder</source>
+				<target>Touristic Site Finder</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Eyebrow" resname="Welcome_Eyebrow">
+				<source>JAPAN · HERITAGE SITES</source>
+				<target>JAPAN · HERITAGE SITES</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Title" resname="Welcome_Title">
+				<source>Touristic Site Finder</source>
+				<target>Touristic Site Finder</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Subtitle" resname="Welcome_Subtitle">
+				<source>This 4D application allows you to perform geographic search on a set of touristic sites in Japan, retrieved from Wikidata (https://www.wikidata.org).  You simply select a city and a maximum search distance. Using a formula that measures the distance between two geographic points, an ORDA query then retrieves every touristic site located within that distance, ranked from nearest to farthest.  The selected city and site are displayed on an interactive map using a 4D Web Area (powered by Leaflet and OpenStreetMap).</source>
+				<target>This 4D application allows you to perform geographic search on a set of touristic sites in Japan, retrieved from Wikidata (https://www.wikidata.org).  You simply select a city and a maximum search distance. Using a formula that measures the distance between two geographic points, an ORDA query then retrieves every touristic site located within that distance, ranked from nearest to farthest.  The selected city and site are displayed on an interactive map using a 4D Web Area (powered by Leaflet and OpenStreetMap).</target>
+			</trans-unit>
+			<trans-unit id="Welcome_SiteCount" resname="Welcome_SiteCount">
+				<source>{n} touristic sites</source>
+				<target>{n} touristic sites</target>
+			</trans-unit>
+			<trans-unit id="Welcome_CityCount" resname="Welcome_CityCount">
+				<source>{n} departure cities</source>
+				<target>{n} departure cities</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Range" resname="Welcome_Range">
+				<source>up to 500 km</source>
+				<target>up to 500 km</target>
+			</trans-unit>
+			<trans-unit id="Welcome_PreviewCaption" resname="Welcome_PreviewCaption">
+				<source>one departure city, every site in range</source>
+				<target>one departure city, every site in range</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Section" resname="Welcome_Section">
+				<source>IN THE DATASET</source>
+				<target>IN THE DATASET</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Explore" resname="Welcome_Explore">
+				<source>Explore Touristic Sites →</source>
+				<target>Explore Touristic Sites →</target>
+			</trans-unit>
+			<trans-unit id="Welcome_Attribution" resname="Welcome_Attribution">
+				<source>Sites from Wikidata · Map tiles © OpenStreetMap contributors</source>
+				<target>Sites from Wikidata · Map tiles © OpenStreetMap contributors</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelVersion" resname="Welcome_LabelVersion">
+				<source>VERSION</source>
+				<target>VERSION</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelDocs" resname="Welcome_LabelDocs">
+				<source>DOCS &amp; BLOG</source>
+				<target>DOCS &amp; BLOG</target>
+			</trans-unit>
+			<trans-unit id="Welcome_LabelStack" resname="Welcome_LabelStack">
+				<source>STACK</source>
+				<target>STACK</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

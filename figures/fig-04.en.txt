@@ -1,0 +1,13 @@
+JSON file
+Cities and sites
+coord array
+Standard attributes
+Names (FR / EN / AR)
+[31.6295, -7.9811]
+Wikidata reference
+4D.Vector.new()
+Latitude and longitude
+$cityEntity.save()
+Entity written to database
+Database
+All cities and tourist sites

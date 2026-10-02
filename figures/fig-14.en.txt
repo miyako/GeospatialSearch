@@ -1,0 +1,18 @@
+4D form
+Web area page
+On Load
+map.html loaded once
+URL assigned to the web area
+Leaflet initialised
+mapReady set to True
+On End URL Loading
+Pending data sent
+Page fully loaded
+User interaction
+City, site or distance
+buildMapData()
+src and optional dst
+pushMapData()
+updateMap(data)
+JavaScript function invoked
+Markers and line drawn

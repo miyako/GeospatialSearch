@@ -1,0 +1,353 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 1240,
+	"windowMinHeight": 150,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": ":xliff:Finder_WindowTitle",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Rectangle": {
+					"type": "rectangle",
+					"top": 0,
+					"left": 0,
+					"width": 1251,
+					"height": 635,
+					"stroke": "transparent",
+					"sizingX": "grow",
+					"sizingY": "grow",
+					"fill": "#F2F8FF"
+				},
+				"popCities": {
+					"type": "dropdown",
+					"left": 180,
+					"top": 21,
+					"width": 375,
+					"height": 27,
+					"events": [
+						"onDataChange"
+					],
+					"method": "ObjectMethods/popCities.4dm",
+					"dataSourceTypeHint": "object",
+					"dataSource": "cityChoices",
+					"fontWeight": "bold",
+					"stroke": "#696969"
+				},
+				"txt1": {
+					"type": "text",
+					"text": ":xliff:Finder_CurrentLocation",
+					"top": 27,
+					"left": 22,
+					"width": 153,
+					"height": 15,
+					"textAlign": "right",
+					"stroke": "#696969"
+				},
+				"txt2": {
+					"type": "text",
+					"text": ":xliff:Finder_MaxDistance",
+					"top": 59,
+					"left": 22,
+					"width": 153,
+					"height": 15,
+					"textAlign": "right",
+					"stroke": "#696969"
+				},
+				"sldMaxDistance": {
+					"type": "ruler",
+					"left": 221,
+					"top": 59,
+					"width": 334,
+					"height": 17,
+					"max": 1000,
+					"events": [
+						"onDataChange"
+					],
+					"graduationStep": 100,
+					"step": 1,
+					"dataSource": "maxDistance",
+					"method": "ObjectMethods/sldMaxDistance.4dm"
+				},
+				"Zone de saisie": {
+					"type": "input",
+					"left": 180,
+					"top": 59,
+					"width": 33,
+					"height": 16,
+					"enterable": false,
+					"focusable": false,
+					"borderStyle": "none",
+					"fontWeight": "bold",
+					"dataSourceTypeHint": "integer",
+					"dataSource": "maxDistance",
+					"textAlign": "right",
+					"fill": "transparent",
+					"stroke": "#1e90ff"
+				},
+				"lbTouristicSites": {
+					"type": "listbox",
+					"left": 22,
+					"top": 95,
+					"width": 533,
+					"height": 518,
+					"events": [
+						"onClick",
+						"onHeaderClick",
+						"onDataChange",
+						"onSelectionChange"
+					],
+					"listboxType": "collection",
+					"dataSource": "nearbySites",
+					"method": "ObjectMethods/lbTouristicSites.4dm",
+					"selectionMode": "single",
+					"currentItemSource": "nearbySiteSelected",
+					"sizingY": "grow",
+					"resizingMode": "legacy",
+					"fill": "#FFFFFF",
+					"stroke": "#696969",
+					"headerHeight": "2em",
+					"columns": [
+						{
+							"header": {
+								"text": ":xliff:Finder_HeaderSiteName",
+								"name": "lbHeader1",
+								"fontWeight": "bold"
+							},
+							"name": "lbColumn1",
+							"footer": {
+								"name": "Pied1"
+							},
+							"width": 220,
+							"dataSource": "This:C1470.site.name",
+							"enterable": false
+						},
+						{
+							"header": {
+								"name": "Entête2",
+								"text": ":xliff:Finder_HeaderDistance",
+								"fontWeight": "bold"
+							},
+							"name": "lbColumn2",
+							"footer": {
+								"name": "Pied2"
+							},
+							"width": 100,
+							"dataSourceTypeHint": "number",
+							"dataSource": "This:C1470.distance",
+							"numberFormat": "###0.0",
+							"textAlign": "center",
+							"enterable": false
+						},
+						{
+							"header": {
+								"name": "Entête3",
+								"text": ":xliff:Finder_HeaderCoordinates",
+								"fontWeight": "bold"
+							},
+							"name": "lbColumn3",
+							"footer": {
+								"name": "Pied3"
+							},
+							"width": 180,
+							"dataSource": "formatCoordinatesDMS(This:C1470.site.coordinates)",
+							"textAlign": "center",
+							"enterable": false
+						}
+					]
+				},
+				"webMapView": {
+					"type": "webArea",
+					"left": 575,
+					"top": 59,
+					"width": 653,
+					"height": 554,
+					"urlSource": "mapViewURL",
+					"webEngine": "embedded",
+					"events": [
+						"onEndURLLoading"
+					],
+					"method": "ObjectMethods/webMapView.4dm",
+					"sizingY": "grow",
+					"sizingX": "grow"
+				},
+				"txt3": {
+					"type": "text",
+					"text": ":xliff:Finder_FoundSites",
+					"top": 27,
+					"left": 575,
+					"width": 119,
+					"height": 15,
+					"stroke": "#696969"
+				},
+				"txt4": {
+					"type": "text",
+					"text": ":xliff:Finder_CityDeparture",
+					"top": 18,
+					"left": 750,
+					"width": 132,
+					"height": 15,
+					"textAlign": "right",
+					"sizingX": "move",
+					"stroke": "#696969"
+				},
+				"outNearbySitesCount": {
+					"type": "input",
+					"left": 654,
+					"top": 27,
+					"width": 23,
+					"height": 16,
+					"enterable": false,
+					"focusable": false,
+					"borderStyle": "none",
+					"fontWeight": "bold",
+					"dataSourceTypeHint": "integer",
+					"dataSource": "nearbySites.length",
+					"textAlign": "right",
+					"fill": "transparent",
+					"stroke": "#696969"
+				},
+				"outCityCoordinates": {
+					"type": "input",
+					"left": 715,
+					"top": 33,
+					"width": 167,
+					"height": 16,
+					"enterable": false,
+					"focusable": false,
+					"borderStyle": "none",
+					"fontWeight": "bold",
+					"dataSourceTypeHint": "text",
+					"dataSource": "formatCoordinatesDMS(citySelected.coordinates)",
+					"textAlign": "right",
+					"sizingX": "move",
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/outCityCoordinates.4dm",
+					"fill": "transparent",
+					"stroke": "#696969"
+				},
+				"txt5": {
+					"type": "text",
+					"text": ":xliff:Finder_SiteArrival",
+					"top": 18,
+					"left": 1068,
+					"width": 132,
+					"height": 15,
+					"textAlign": "left",
+					"sizingX": "move",
+					"stroke": "#696969"
+				},
+				"outSiteCoordinates": {
+					"type": "input",
+					"left": 1068,
+					"top": 34,
+					"width": 167,
+					"height": 16,
+					"enterable": false,
+					"focusable": false,
+					"borderStyle": "none",
+					"fontWeight": "bold",
+					"dataSourceTypeHint": "text",
+					"dataSource": "nearbySiteSelected#Null:C1517 ? formatCoordinatesDMS(nearbySiteSelected.site.coordinates) : Localized string(\"Finder_None\")",
+					"textAlign": "left",
+					"sizingX": "move",
+					"method": "ObjectMethods/outSiteCoordinates.4dm",
+					"events": [
+						"onClick"
+					],
+					"fill": "transparent",
+					"stroke": "#696969"
+				},
+				"icn1": {
+					"type": "oval",
+					"top": 34,
+					"left": 884,
+					"width": 13,
+					"height": 13,
+					"fill": "#1e90ff",
+					"sizingX": "move"
+				},
+				"icn2": {
+					"type": "oval",
+					"top": 34,
+					"left": 1053,
+					"width": 13,
+					"height": 13,
+					"fill": "#FF8040",
+					"sizingX": "move"
+				},
+				"Ligne": {
+					"type": "line",
+					"top": 40,
+					"left": 902,
+					"width": 145,
+					"height": 0,
+					"stroke": "#808080",
+					"startPoint": "topLeft",
+					"strokeDashArray": [
+						6,
+						2
+					],
+					"sizingX": "move"
+				},
+				"outNearbySiteDistance": {
+					"type": "input",
+					"left": 902,
+					"top": 24,
+					"width": 147,
+					"height": 16,
+					"enterable": false,
+					"focusable": false,
+					"borderStyle": "none",
+					"fontWeight": "bold",
+					"dataSourceTypeHint": "text",
+					"dataSource": "nearbySiteSelected#Null:C1517 ? (String:C10(nearbySiteSelected.distance; \"###0.0\")+\" km\") : \"\"",
+					"textAlign": "center",
+					"sizingX": "move",
+					"fill": "transparent",
+					"stroke": "#696969"
+				}
+			}
+		}
+	],
+	"geometryStamp": 882,
+	"method": "method.4dm",
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	},
+	"colorScheme": "light"
+}
