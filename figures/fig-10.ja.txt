@@ -1,0 +1,10 @@
+返されるコレクション
+site
+distance
+nameEN, nameFR, coordinates
+12.5
+site
+distance
+nameEN, nameFR, coordinates
+18.2
+該当する観光地ごとに1エントリ

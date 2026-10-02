@@ -1,0 +1,7 @@
+Great-circle distance
+City
+Tourist site
+Straight chord ignores curvature
+R = 6371 km
+Earth centre
+Distance = R × θ

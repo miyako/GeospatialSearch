@@ -1,0 +1,10 @@
+Returned collection
+site
+distance
+nameEN, nameFR, coordinates
+12.5
+site
+distance
+nameEN, nameFR, coordinates
+18.2
+one entry per matching site

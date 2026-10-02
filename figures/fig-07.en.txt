@@ -1,0 +1,8 @@
+Filtering
+Sites within the search radius
+geoDistance()
+Sorting
+Distance in kilometres
+Nearest results first
+Interface display
+Distance shown to the user

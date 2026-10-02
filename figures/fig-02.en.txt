@@ -1,0 +1,20 @@
+Wikidata
+Public open dataset
+Cities
+Tourist sites
+Reference points
+Search targets
+Name (FR / EN / AR)
+Name (FR / EN / AR)
+Population
+Wikidata reference
+Wikidata reference
+Descriptive fields
+Distance
+between GPS points
+GPS position
+GPS position
+Mandatory
+Mandatory
+Nearby sites result
+Sorted list and map display

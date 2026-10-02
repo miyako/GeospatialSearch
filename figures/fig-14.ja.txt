@@ -1,0 +1,18 @@
+4Dフォーム
+Webエリアのページ
+On Load
+map.htmlを一度だけ読み込む
+URLをWebエリアに代入
+Leafletを初期化
+mapReadyをTrueに設定
+On End URL Loading
+保留中のデータを送信
+ページの読み込み完了
+ユーザー操作
+都市、観光地、距離
+buildMapData()
+srcと任意のdst
+pushMapData()
+updateMap(data)
+JavaScript関数を呼び出し
+マーカーと線を描画

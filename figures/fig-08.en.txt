@@ -1,0 +1,4 @@
+Search radius
+Selected city
+Within the radius, kept in the results
+Beyond the radius, discarded

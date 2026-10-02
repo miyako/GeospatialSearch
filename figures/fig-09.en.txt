@@ -1,0 +1,14 @@
+Search method
+City entity and maximum distance
+Parameter validation
+City must not be null
+Distance must be positive
+query with Formula
+Distance evaluated for each site
+Filtering performed by the engine
+orderByFormula
+Same distance formula reused
+Nearest results first
+Result collection
+One object per matching site
+Site entity and distance paired

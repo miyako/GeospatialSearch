@@ -1,0 +1,15 @@
+City selection
+User input
+GPS coordinate retrieval
+Geocoding lookup
+Distance calculation
+City to each site
+Single ORDA query
+Nearby site search
+Radius filtering
+Result sorting
+By ascending distance
+List display
+Ranked results
+Map visualization
+Interactive markers
