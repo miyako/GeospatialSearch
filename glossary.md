@@ -9,7 +9,7 @@ Style: です・ます調. Half-width alphanumerics, no space between Japanese a
 |---|---|---|
 | geospatial search | 地理空間検索 | |
 | geospatial data | 地理空間データ | |
-| tourist site / touristic site | 観光地 | |
+| tourist site / touristic site | 観光名所 | |
 | city | 都市 | |
 | search radius | 検索半径 | |
 | maximum distance | 最大距離 | |
@@ -30,7 +30,7 @@ Style: です・ます調. Half-width alphanumerics, no space between Japanese a
 | web area | Webエリア | 4D docs |
 | 4D Web Server | 4D Webサーバー | 4D docs |
 | parameter | 引数 | 4D docs |
-| guard clause | ガード節 | |
+| guard clause | 条件式 | |
 | marker | マーカー | Leaflet |
 | base layer / tiles | ベースレイヤー / タイル | Leaflet |
 | Bahia Palace | バイア宮殿 | |
